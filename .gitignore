@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 .jupyter
 .local
+.config
+.ipython
+history.sqlite
